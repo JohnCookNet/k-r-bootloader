@@ -2,7 +2,7 @@
 
 A minimal x86 real-mode bootloader for **SeaBIOS** that boots directly in a VM and prints:
 
-`Hello from C!`
+`Hello from C!` 
 
 This project is a small learning exercise in low-level systems programming, combining:
 
